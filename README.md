@@ -1,4 +1,4 @@
-# NetherlandsWelcomePack
+# Netherlands welcome pack
 
 * [Housing](https://github.com/Saliba/WelcomePack/wiki/How-to-find-a-place-to-live)
 * Money
